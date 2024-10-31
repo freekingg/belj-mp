@@ -61,7 +61,7 @@ onLoad((options: any) => {
         scroll-y
         @scroll="scrollViewScrollHandle"
       >
-        <PageB />
+        <PageC />
       </scroll-view>
     </view>
     <view
@@ -74,7 +74,7 @@ onLoad((options: any) => {
         scroll-y
         @scroll="scrollViewScrollHandle"
       >
-        <PageC />
+        <PageD />
       </scroll-view>
     </view>
     <view

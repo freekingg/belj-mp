@@ -10137,7 +10137,7 @@ const _sfc_main = /* @__PURE__ */ defineComponent({
     };
   }
 });
-const Component$1 = /* @__PURE__ */ _export_sfc(_sfc_main, [["__scopeId", "data-v-40a804f4"], ["__file", "F:/code/tuniao-site-vue3_1.1.0/node_modules/@tuniao/tnui-vue3-uniapp/components/overlay/src/overlay.vue"]]);
+const Component$1 = /* @__PURE__ */ _export_sfc(_sfc_main, [["__scopeId", "data-v-40a804f4"], ["__file", "/Users/kingking/king/my/belj-mp/node_modules/@tuniao/tnui-vue3-uniapp/components/overlay/src/overlay.vue"]]);
 withNoopInstall(Component$1);
 const popupOpenDirection = [
   "top",
@@ -14627,107 +14627,6 @@ const usePhotoAlbum = (props, emits) => {
     imageClickEvent
   };
 };
-const emptyDefaultTips = {
-  cart: "购物车为空",
-  page: "页面不存在",
-  search: "搜索结果为空",
-  address: "地址为空",
-  network: "网络不通",
-  order: "订单为空",
-  coupon: "优惠券为空",
-  favor: "暂无收藏",
-  permission: "无权限",
-  history: "历史记录为空",
-  message: "暂无消息",
-  list: "列表为空",
-  data: "暂无数据",
-  comment: "暂无评论"
-};
-const emptyMode = [
-  "cart",
-  "page",
-  "search",
-  "address",
-  "network",
-  "order",
-  "coupon",
-  "favor",
-  "permission",
-  "history",
-  "message",
-  "list",
-  "data",
-  "comment"
-];
-const emptyProps = buildProps({
-  /**
-   * @description 空白提示类型
-   */
-  mode: {
-    type: String,
-    values: emptyMode,
-    required: true
-  },
-  /**
-   * @description 内容颜色，以tn开头使用图鸟内置的颜色
-   */
-  color: String,
-  /**
-   * @description 内容尺寸，可以传递尺寸或者`sm` `lg` `xl`
-   */
-  size: String,
-  /**
-   * @description 是否显示提示
-   */
-  showTips: {
-    type: Boolean,
-    default: true
-  }
-});
-const useEmptyCustomStyle = (props, customIconContent, customTipsContent) => {
-  const ns = useNamespace("empty");
-  const [textColorClass, textColorStyle] = useComponentColor(
-    toRef(props, "color"),
-    "text"
-  );
-  const { sizeType } = useComponentSize(props.size);
-  const emptyClass = computed(() => {
-    const cls = [ns.b()];
-    if (textColorClass.value)
-      cls.push(textColorClass.value);
-    if (props.size && sizeType.value === "inner")
-      cls.push(ns.m(props.size));
-    return cls.join(" ");
-  });
-  const emptyStyle = computed(() => {
-    const style = {};
-    if (!textColorClass.value) {
-      style.color = textColorStyle.value || "var(--tn-color-gray-disbaled)";
-    }
-    return style;
-  });
-  const iconTextStyle = computed(() => {
-    return (type) => {
-      const style = {};
-      if (props.size && sizeType.value === "custom") {
-        if (type === "icon" && !customIconContent.value) {
-          style.fontSize = formatDomSizeValue(props.size);
-          style.width = style.height = formatDomSizeValue(props.size);
-        }
-        if (type === "tips" && !customTipsContent.value) {
-          style.fontSize = `calc(${formatDomSizeValue(props.size)} * 0.35)`;
-        }
-      }
-      return style;
-    };
-  });
-  return {
-    ns,
-    emptyClass,
-    emptyStyle,
-    iconTextStyle
-  };
-};
 exports.Component = Component$1;
 exports._export_sfc = _export_sfc;
 exports.avatarEmits = avatarEmits;
@@ -14747,8 +14646,6 @@ exports.dateTimePickerProps = dateTimePickerProps;
 exports.debugWarn = debugWarn;
 exports.defineComponent = defineComponent;
 exports.e = e;
-exports.emptyDefaultTips = emptyDefaultTips;
-exports.emptyProps = emptyProps;
 exports.f = f;
 exports.footerEmits = footerEmits;
 exports.footerProps = footerProps;
@@ -14835,7 +14732,6 @@ exports.useColumnNoticeBar = useColumnNoticeBar;
 exports.useComponentColor = useComponentColor;
 exports.useCoolIconCustomStyle = useCoolIconCustomStyle;
 exports.useDateTimePicker = useDateTimePicker;
-exports.useEmptyCustomStyle = useEmptyCustomStyle;
 exports.useFooter = useFooter;
 exports.useFooterCustomStyle = useFooterCustomStyle;
 exports.useGraphicCard = useGraphicCard;

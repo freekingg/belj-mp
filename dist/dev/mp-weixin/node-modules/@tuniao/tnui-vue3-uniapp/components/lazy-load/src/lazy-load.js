@@ -69,5 +69,5 @@ const _sfc_main = /* @__PURE__ */ common_vendor.defineComponent({
     };
   }
 });
-const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-b259162f"], ["__file", "F:/code/tuniao-site-vue3_1.1.0/node_modules/@tuniao/tnui-vue3-uniapp/components/lazy-load/src/lazy-load.vue"]]);
+const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-b259162f"], ["__file", "/Users/kingking/king/my/belj-mp/node_modules/@tuniao/tnui-vue3-uniapp/components/lazy-load/src/lazy-load.vue"]]);
 wx.createComponent(Component);

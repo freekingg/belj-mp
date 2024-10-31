@@ -8,11 +8,11 @@ const useIndex = () => {
       icon: "home-in",
       activeIcon: "home-in-fill"
     },
-    {
-      text: "产品",
-      icon: "iot",
-      activeIcon: "iot-fill"
-    },
+    // {
+    //   text: '产品',
+    //   icon: 'iot',
+    //   activeIcon: 'iot-fill',
+    // },
     {
       text: "案例",
       icon: "rocket",
@@ -22,12 +22,12 @@ const useIndex = () => {
       text: "资讯",
       icon: "topics",
       activeIcon: "topics-fill"
-    },
-    {
-      text: "图鸟",
-      icon: "my-circle",
-      activeIcon: "my-circle-fill"
     }
+    // {
+    //   text: '图鸟',
+    //   icon: 'my-circle',
+    //   activeIcon: 'my-circle-fill',
+    // },
   ];
   const currentTabbarIndex = common_vendor.ref(-1);
   const renderPageStatus = common_vendor.ref(
@@ -51,6 +51,7 @@ const useIndex = () => {
       var _a, _b;
       (_b = (_a = _findPageByIndex(index)) == null ? void 0 : _a.onShow) == null ? void 0 : _b.call(_a);
     });
+    console.log(renderPageStatus.value);
   };
   const scrollViewScrollHandle = (event) => {
     var _a, _b;

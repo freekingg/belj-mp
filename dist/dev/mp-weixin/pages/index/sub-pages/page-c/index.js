@@ -21,7 +21,7 @@ const _sfc_main = /* @__PURE__ */ common_vendor.defineComponent({
   ...__default__,
   __name: "index",
   setup(__props) {
-    const { navBarInfo } = common_vendor.useUniAppSystemRectInfo();
+    common_vendor.useUniAppSystemRectInfo();
     const {
       demoImages,
       businessCategoryData,
@@ -30,47 +30,7 @@ const _sfc_main = /* @__PURE__ */ common_vendor.defineComponent({
       navCaseDetail
     } = pages_index_subPages_pageC_composables_useSubPage.useSubPage();
     return (_ctx, _cache) => {
-      return {
-        a: common_vendor.w(({
-          data,
-          active
-        }, s0, i0) => {
-          return {
-            a: data.image,
-            b: active ? 1 : "",
-            c: i0,
-            d: s0
-          };
-        }, {
-          name: "d",
-          path: "a",
-          vueId: "49442815-1,49442815-0"
-        }),
-        b: common_vendor.p({
-          data: common_vendor.unref(demoImages),
-          ["previous-margin"]: "120",
-          ["next-margin"]: "130",
-          loop: true
-        }),
-        c: `${common_vendor.unref(navBarInfo).height}px`,
-        d: common_vendor.f(common_vendor.unref(businessCategoryData), (item, index, i0) => {
-          var _a;
-          return {
-            a: "49442815-2-" + i0 + ",49442815-0",
-            b: common_vendor.p({
-              name: item.icon,
-              color: (_a = item == null ? void 0 : item.iconColor) == null ? void 0 : _a.value,
-              size: "110"
-            }),
-            c: common_vendor.t(item.name),
-            d: index,
-            e: common_vendor.o(
-              //@ts-ignore
-              (...args) => common_vendor.unref(navBusinessProcessDetail) && common_vendor.unref(navBusinessProcessDetail)(...args),
-              index
-            )
-          };
-        }),
+      return common_vendor.e({}, {}, {
         e: common_vendor.p({
           title: "项 / 目 / 案 / 例",
           ["cool-bg-number"]: 5
@@ -83,9 +43,9 @@ const _sfc_main = /* @__PURE__ */ common_vendor.defineComponent({
             d: common_vendor.o(($event) => common_vendor.unref(navCaseDetail)(item.id), index)
           };
         })
-      };
+      });
     };
   }
 });
-const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-49442815"], ["__file", "F:/code/tuniao-site-vue3_1.1.0/src/pages/index/sub-pages/page-c/index.vue"]]);
+const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-49442815"], ["__file", "/Users/kingking/king/my/belj-mp/src/pages/index/sub-pages/page-c/index.vue"]]);
 wx.createComponent(Component);

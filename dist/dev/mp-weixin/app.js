@@ -41,7 +41,7 @@ const _sfc_main = /* @__PURE__ */ common_vendor.defineComponent({
     };
   }
 });
-const App = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__file", "F:/code/tuniao-site-vue3_1.1.0/src/App.vue"]]);
+const App = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__file", "/Users/kingking/king/my/belj-mp/src/App.vue"]]);
 const TnIcon = () => "./node-modules/@tuniao/tnui-vue3-uniapp/components/icon/src/icon.js";
 const TnNavbar = () => "./node-modules/@tuniao/tnui-vue3-uniapp/components/navbar/src/navbar.js";
 const TnButton = () => "./node-modules/@tuniao/tnui-vue3-uniapp/components/button/src/button.js";

@@ -67,5 +67,5 @@ const _sfc_defineComponent = /* @__PURE__ */ common_vendor.defineComponent({
   }
 });
 _sfc_defineComponent.__runtimeHooks = 1;
-const MiniProgramPage = /* @__PURE__ */ common_vendor._export_sfc(_sfc_defineComponent, [["__scopeId", "data-v-9ee9269f"], ["__file", "F:/code/tuniao-site-vue3_1.1.0/src/detail-page/business-process-detail/index.vue"]]);
+const MiniProgramPage = /* @__PURE__ */ common_vendor._export_sfc(_sfc_defineComponent, [["__scopeId", "data-v-9ee9269f"], ["__file", "/Users/kingking/king/my/belj-mp/src/detail-page/business-process-detail/index.vue"]]);
 wx.createPage(MiniProgramPage);

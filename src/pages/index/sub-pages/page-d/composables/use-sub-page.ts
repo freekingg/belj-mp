@@ -68,7 +68,7 @@ export const useSubPage = () => {
     )
   }
 
-  useSubPageProvide(3, {
+  useSubPageProvide(2, {
     onLoad,
   })
 

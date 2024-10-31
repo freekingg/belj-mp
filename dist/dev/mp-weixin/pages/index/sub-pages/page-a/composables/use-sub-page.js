@@ -7,9 +7,7 @@ const useSubPage = () => {
   const instance = common_vendor.getCurrentInstance();
   const swiperData = common_vendor.ref([
     "https://resource.tuniaokj.com/images/swiper/ad2.jpg",
-    "https://resource.tuniaokj.com/images/swiper/ad3.jpg",
-    "https://resource.tuniaokj.com/images/swiper/ad4.jpg",
-    "https://resource.tuniaokj.com/images/swiper/ad5.jpg"
+    "https://resource.tuniaokj.com/images/swiper/ad3.jpg"
   ]);
   const hotCategoryData = common_vendor.ref([
     {

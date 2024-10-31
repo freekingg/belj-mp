@@ -14,8 +14,6 @@ export const useSubPage = () => {
   const swiperData = ref<string[]>([
     'https://resource.tuniaokj.com/images/swiper/ad2.jpg',
     'https://resource.tuniaokj.com/images/swiper/ad3.jpg',
-    'https://resource.tuniaokj.com/images/swiper/ad4.jpg',
-    'https://resource.tuniaokj.com/images/swiper/ad5.jpg',
   ])
 
   // 热门分类

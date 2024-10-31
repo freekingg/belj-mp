@@ -19,7 +19,7 @@
     }
   },
   "compileType": "miniprogram",
-  "libVersion": "2.25.3",
+  "libVersion": "3.6.4",
   "appid": "wxfa935fcfac062d0d",
   "projectname": "图鸟官网",
   "condition": {},

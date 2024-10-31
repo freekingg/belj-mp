@@ -44,5 +44,5 @@ const _sfc_main = /* @__PURE__ */ common_vendor.defineComponent({
     };
   }
 });
-const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-58f4720c"], ["__file", "F:/code/tuniao-site-vue3_1.1.0/src/pages/index/sub-pages/page-b/components/product-item/index.vue"]]);
+const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-58f4720c"], ["__file", "/Users/kingking/king/my/belj-mp/src/pages/index/sub-pages/page-b/components/product-item/index.vue"]]);
 wx.createComponent(Component);

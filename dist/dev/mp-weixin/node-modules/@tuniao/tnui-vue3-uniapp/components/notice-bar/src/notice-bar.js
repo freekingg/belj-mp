@@ -58,5 +58,5 @@ const _sfc_main = /* @__PURE__ */ common_vendor.defineComponent({
     };
   }
 });
-const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-35b71007"], ["__file", "F:/code/tuniao-site-vue3_1.1.0/node_modules/@tuniao/tnui-vue3-uniapp/components/notice-bar/src/notice-bar.vue"]]);
+const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-35b71007"], ["__file", "/Users/kingking/king/my/belj-mp/node_modules/@tuniao/tnui-vue3-uniapp/components/notice-bar/src/notice-bar.vue"]]);
 wx.createComponent(Component);

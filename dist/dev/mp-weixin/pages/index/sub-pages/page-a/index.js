@@ -160,5 +160,5 @@ const _sfc_main = /* @__PURE__ */ common_vendor.defineComponent({
     };
   }
 });
-const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-80fdba5d"], ["__file", "F:/code/tuniao-site-vue3_1.1.0/src/pages/index/sub-pages/page-a/index.vue"]]);
+const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-80fdba5d"], ["__file", "/Users/kingking/king/my/belj-mp/src/pages/index/sub-pages/page-a/index.vue"]]);
 wx.createComponent(Component);

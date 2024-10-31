@@ -211,7 +211,7 @@ export const useSubPage = () => {
     tnNavPage(`/detail-page/article-detail/index?id=${id}&type=case`)
   }
 
-  useSubPageProvide(2, {
+  useSubPageProvide(1, {
     onLoad,
   })
 

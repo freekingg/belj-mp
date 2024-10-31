@@ -192,7 +192,7 @@ const useSubPage = () => {
   const navCaseDetail = (id) => {
     common_vendor.tnNavPage(`/detail-page/article-detail/index?id=${id}&type=case`);
   };
-  pages_index_composables_useSubPageProvide.useSubPageProvide(2, {
+  pages_index_composables_useSubPageProvide.useSubPageProvide(1, {
     onLoad
   });
   return {

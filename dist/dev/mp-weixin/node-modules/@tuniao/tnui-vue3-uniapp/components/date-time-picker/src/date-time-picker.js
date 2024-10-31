@@ -24,7 +24,7 @@ const _sfc_main = /* @__PURE__ */ common_vendor.defineComponent({
     initDateTimePicker(props.initCurrentDateTime);
     return (_ctx, _cache) => {
       return {
-        a: common_vendor.sr(pickerRef, "1b6d4b17-0", {
+        a: common_vendor.sr(pickerRef, "4511e258-0", {
           "k": "pickerRef"
         }),
         b: common_vendor.o(common_vendor.unref(pickerValueChangeEvent)),
@@ -49,5 +49,5 @@ const _sfc_main = /* @__PURE__ */ common_vendor.defineComponent({
     };
   }
 });
-const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__file", "F:/code/tuniao-site-vue3_1.1.0/node_modules/@tuniao/tnui-vue3-uniapp/components/date-time-picker/src/date-time-picker.vue"]]);
+const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__file", "/Users/kingking/king/my/belj-mp/node_modules/@tuniao/tnui-vue3-uniapp/components/date-time-picker/src/date-time-picker.vue"]]);
 wx.createComponent(Component);

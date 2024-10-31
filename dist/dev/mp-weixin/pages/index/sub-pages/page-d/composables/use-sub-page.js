@@ -57,7 +57,7 @@ const useSubPage = () => {
       })
     );
   };
-  pages_index_composables_useSubPageProvide.useSubPageProvide(3, {
+  pages_index_composables_useSubPageProvide.useSubPageProvide(2, {
     onLoad
   });
   return {

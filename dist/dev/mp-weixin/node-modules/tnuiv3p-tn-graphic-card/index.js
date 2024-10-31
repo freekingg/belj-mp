@@ -207,5 +207,5 @@ const _sfc_main = /* @__PURE__ */ common_vendor.defineComponent({
     };
   }
 });
-const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-20d23020"], ["__file", "F:/code/tuniao-site-vue3_1.1.0/node_modules/tnuiv3p-tn-graphic-card/index.vue"]]);
+const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-20d23020"], ["__file", "/Users/kingking/king/my/belj-mp/node_modules/tnuiv3p-tn-graphic-card/index.vue"]]);
 wx.createComponent(Component);

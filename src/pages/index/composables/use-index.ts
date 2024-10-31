@@ -20,11 +20,11 @@ export const useIndex = () => {
       icon: 'home-in',
       activeIcon: 'home-in-fill',
     },
-    {
-      text: '产品',
-      icon: 'iot',
-      activeIcon: 'iot-fill',
-    },
+    // {
+    //   text: '产品',
+    //   icon: 'iot',
+    //   activeIcon: 'iot-fill',
+    // },
     {
       text: '案例',
       icon: 'rocket',
@@ -35,12 +35,13 @@ export const useIndex = () => {
       icon: 'topics',
       activeIcon: 'topics-fill',
     },
-    {
-      text: '图鸟',
-      icon: 'my-circle',
-      activeIcon: 'my-circle-fill',
-    },
+    // {
+    //   text: '图鸟',
+    //   icon: 'my-circle',
+    //   activeIcon: 'my-circle-fill',
+    // },
   ]
+  
 
   // 当前选中的tabbar索引
   const currentTabbarIndex = ref(-1)
@@ -67,6 +68,7 @@ export const useIndex = () => {
     nextTick(() => {
       _findPageByIndex(index)?.onShow?.()
     })
+	console.log(renderPageStatus.value)
   }
 
   // 处理页面对应scroll-view滚动事件

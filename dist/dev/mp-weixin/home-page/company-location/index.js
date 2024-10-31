@@ -19,5 +19,5 @@ function _sfc_render(_ctx, _cache) {
     })
   };
 }
-const MiniProgramPage = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["render", _sfc_render], ["__scopeId", "data-v-aa0de221"], ["__file", "F:/code/tuniao-site-vue3_1.1.0/src/home-page/company-location/index.vue"]]);
+const MiniProgramPage = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["render", _sfc_render], ["__scopeId", "data-v-aa0de221"], ["__file", "/Users/kingking/king/my/belj-mp/src/home-page/company-location/index.vue"]]);
 wx.createPage(MiniProgramPage);

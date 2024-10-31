@@ -43,5 +43,5 @@ const _sfc_main = /* @__PURE__ */ common_vendor.defineComponent({
     };
   }
 });
-const MiniProgramPage = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-a5bf2696"], ["__file", "F:/code/tuniao-site-vue3_1.1.0/src/home-page/win-win/index.vue"]]);
+const MiniProgramPage = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-a5bf2696"], ["__file", "/Users/kingking/king/my/belj-mp/src/home-page/win-win/index.vue"]]);
 wx.createPage(MiniProgramPage);

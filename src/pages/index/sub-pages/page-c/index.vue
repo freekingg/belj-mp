@@ -31,7 +31,7 @@ export default {
 <template>
   <PageContainer>
     <!-- 顶部样机演示 -->
-    <view class="demo-preview">
+    <view v-if="false" class="demo-preview">
       <view class="swiper" :style="{ marginTop: `${navBarInfo.height}px` }">
         <TnSwiper
           :data="demoImages"
@@ -54,7 +54,7 @@ export default {
 
     <view class="page">
       <!-- 业务分类 -->
-      <view class="business-category">
+      <view v-if="false" class="business-category">
         <view
           v-for="(item, index) in businessCategoryData"
           :key="index"

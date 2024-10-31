@@ -4,12 +4,11 @@ const pages_index_composables_useIndex = require("./composables/use-index.js");
 const pages_index_composables_indexCustom = require("./composables/index-custom.js");
 require("./tokens/index-page.js");
 if (!Math) {
-  (PageA + PageB + PageC + PageD + PageE + TnTabbarItem + TnTabbar)();
+  (PageA + PageC + PageD + PageE + TnTabbarItem + TnTabbar)();
 }
 const TnTabbar = () => "../../node-modules/@tuniao/tnui-vue3-uniapp/components/tabbar/src/tabbar.js";
 const TnTabbarItem = () => "../../node-modules/@tuniao/tnui-vue3-uniapp/components/tabbar/src/tabbar-item.js";
 const PageA = () => "./sub-pages/page-a/index.js";
-const PageB = () => "./sub-pages/page-b/index.js";
 const PageC = () => "./sub-pages/page-c/index.js";
 const PageD = () => "./sub-pages/page-d/index.js";
 const PageE = () => "./sub-pages/page-e/index.js";
@@ -101,5 +100,5 @@ const _sfc_main = /* @__PURE__ */ common_vendor.defineComponent({
     };
   }
 });
-const MiniProgramPage = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-83a5a03c"], ["__file", "F:/code/tuniao-site-vue3_1.1.0/src/pages/index/index.vue"]]);
+const MiniProgramPage = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-83a5a03c"], ["__file", "/Users/kingking/king/my/belj-mp/src/pages/index/index.vue"]]);
 wx.createPage(MiniProgramPage);

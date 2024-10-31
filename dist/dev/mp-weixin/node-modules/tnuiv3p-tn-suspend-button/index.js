@@ -29,5 +29,5 @@ const _sfc_main = /* @__PURE__ */ common_vendor.defineComponent({
     };
   }
 });
-const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-9b5941aa"], ["__file", "F:/code/tuniao-site-vue3_1.1.0/node_modules/tnuiv3p-tn-suspend-button/index.vue"]]);
+const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-9b5941aa"], ["__file", "/Users/kingking/king/my/belj-mp/node_modules/tnuiv3p-tn-suspend-button/index.vue"]]);
 wx.createComponent(Component);

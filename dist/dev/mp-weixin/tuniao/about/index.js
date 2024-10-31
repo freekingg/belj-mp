@@ -37,5 +37,5 @@ const _sfc_main = /* @__PURE__ */ common_vendor.defineComponent({
     };
   }
 });
-const MiniProgramPage = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-a47e2a6f"], ["__file", "F:/code/tuniao-site-vue3_1.1.0/src/tuniao/about/index.vue"]]);
+const MiniProgramPage = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-a47e2a6f"], ["__file", "/Users/kingking/king/my/belj-mp/src/tuniao/about/index.vue"]]);
 wx.createPage(MiniProgramPage);
