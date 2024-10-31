@@ -54,9 +54,8 @@ const useSubPage = () => {
     }
   ]);
   const noticeData = common_vendor.ref([
-    "图鸟官网全新上线，欢迎大家前来访问",
-    "图鸟官网全新上线，欢迎大家前来访问",
-    "图鸟官网全新上线，欢迎大家前来访问"
+    "布尔逻辑，以技术为导向的创业团队",
+    "布尔逻辑官网全新上线，欢迎大家前来访问"
   ]);
   const adCapsuleData = common_vendor.ref(
     "https://resource.tuniaokj.com/images/swiper/capsule1.png"
