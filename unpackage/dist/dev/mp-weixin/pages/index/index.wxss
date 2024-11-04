@@ -100,251 +100,251 @@
   position: fixed;
   background: #26b4f5;
   right: 14%;
-  bottom: -53px;
-  width: 3px;
-  height: 3px;
-  -webkit-animation: moveToTop-data-v-57280228 5.144s ease-in-out -7.608s infinite;
-          animation: moveToTop-data-v-57280228 5.144s ease-in-out -7.608s infinite;
+  bottom: -58px;
+  width: 10px;
+  height: 10px;
+  -webkit-animation: moveToTop-data-v-57280228 7.866s ease-in-out -6.627s infinite;
+          animation: moveToTop-data-v-57280228 7.866s ease-in-out -6.627s infinite;
 }
 .g-bubble.data-v-57280228:nth-child(1) {
   opacity: 0.2;
   border-radius: 100%;
   position: fixed;
   background: #26b4f5;
-  right: 45%;
-  bottom: -53px;
-  width: 7px;
-  height: 7px;
-  -webkit-animation: moveToTop-data-v-57280228 9.834s ease-in-out -5.968s infinite;
-          animation: moveToTop-data-v-57280228 9.834s ease-in-out -5.968s infinite;
+  right: 70%;
+  bottom: -58px;
+  width: 14px;
+  height: 14px;
+  -webkit-animation: moveToTop-data-v-57280228 1.537s ease-in-out -6.582s infinite;
+          animation: moveToTop-data-v-57280228 1.537s ease-in-out -6.582s infinite;
 }
 .g-bubble.data-v-57280228:nth-child(2) {
   opacity: 0.2;
   border-radius: 100%;
   position: fixed;
   background: #26b4f5;
-  right: 49%;
-  bottom: -53px;
-  width: 10px;
-  height: 10px;
-  -webkit-animation: moveToTop-data-v-57280228 10.415s ease-in-out -5.691s infinite;
-          animation: moveToTop-data-v-57280228 10.415s ease-in-out -5.691s infinite;
+  right: 15%;
+  bottom: -58px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: moveToTop-data-v-57280228 1.722s ease-in-out -2.72s infinite;
+          animation: moveToTop-data-v-57280228 1.722s ease-in-out -2.72s infinite;
 }
 .g-bubble.data-v-57280228:nth-child(3) {
   opacity: 0.2;
   border-radius: 100%;
   position: fixed;
   background: #26b4f5;
-  right: 62%;
-  bottom: -53px;
-  width: 17px;
-  height: 17px;
-  -webkit-animation: moveToTop-data-v-57280228 2.948s ease-in-out -8.273s infinite;
-          animation: moveToTop-data-v-57280228 2.948s ease-in-out -8.273s infinite;
+  right: 57%;
+  bottom: -58px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: moveToTop-data-v-57280228 10.615s ease-in-out -5.075s infinite;
+          animation: moveToTop-data-v-57280228 10.615s ease-in-out -5.075s infinite;
 }
 .g-bubble.data-v-57280228:nth-child(4) {
   opacity: 0.2;
   border-radius: 100%;
   position: fixed;
   background: #26b4f5;
-  right: 6%;
-  bottom: -53px;
-  width: 6px;
-  height: 6px;
-  -webkit-animation: moveToTop-data-v-57280228 6.207s ease-in-out -1.309s infinite;
-          animation: moveToTop-data-v-57280228 6.207s ease-in-out -1.309s infinite;
+  right: 3%;
+  bottom: -58px;
+  width: 20px;
+  height: 20px;
+  -webkit-animation: moveToTop-data-v-57280228 6.005s ease-in-out -6.341s infinite;
+          animation: moveToTop-data-v-57280228 6.005s ease-in-out -6.341s infinite;
 }
 .g-bubble.data-v-57280228:nth-child(5) {
   opacity: 0.2;
   border-radius: 100%;
   position: fixed;
   background: #26b4f5;
-  right: 60%;
-  bottom: -53px;
-  width: 5px;
-  height: 5px;
-  -webkit-animation: moveToTop-data-v-57280228 9.084s ease-in-out -3.581s infinite;
-          animation: moveToTop-data-v-57280228 9.084s ease-in-out -3.581s infinite;
+  right: 38%;
+  bottom: -58px;
+  width: 17px;
+  height: 17px;
+  -webkit-animation: moveToTop-data-v-57280228 9.962s ease-in-out -7.266s infinite;
+          animation: moveToTop-data-v-57280228 9.962s ease-in-out -7.266s infinite;
 }
 .g-bubble.data-v-57280228:nth-child(6) {
   opacity: 0.2;
   border-radius: 100%;
   position: fixed;
   background: #26b4f5;
-  right: 43%;
-  bottom: -53px;
-  width: 19px;
-  height: 19px;
-  -webkit-animation: moveToTop-data-v-57280228 10.334s ease-in-out -7.19s infinite;
-          animation: moveToTop-data-v-57280228 10.334s ease-in-out -7.19s infinite;
+  right: 91%;
+  bottom: -58px;
+  width: 11px;
+  height: 11px;
+  -webkit-animation: moveToTop-data-v-57280228 9.365s ease-in-out -3.642s infinite;
+          animation: moveToTop-data-v-57280228 9.365s ease-in-out -3.642s infinite;
 }
 .g-bubble.data-v-57280228:nth-child(7) {
   opacity: 0.2;
   border-radius: 100%;
   position: fixed;
   background: #26b4f5;
-  right: 95%;
-  bottom: -53px;
-  width: 6px;
-  height: 6px;
-  -webkit-animation: moveToTop-data-v-57280228 10.486s ease-in-out -5.883s infinite;
-          animation: moveToTop-data-v-57280228 10.486s ease-in-out -5.883s infinite;
+  right: 56%;
+  bottom: -58px;
+  width: 14px;
+  height: 14px;
+  -webkit-animation: moveToTop-data-v-57280228 3.438s ease-in-out -5.289s infinite;
+          animation: moveToTop-data-v-57280228 3.438s ease-in-out -5.289s infinite;
 }
 .g-bubble.data-v-57280228:nth-child(8) {
   opacity: 0.2;
   border-radius: 100%;
   position: fixed;
   background: #26b4f5;
-  right: 97%;
-  bottom: -53px;
-  width: 13px;
-  height: 13px;
-  -webkit-animation: moveToTop-data-v-57280228 6.662s ease-in-out -1.602s infinite;
-          animation: moveToTop-data-v-57280228 6.662s ease-in-out -1.602s infinite;
+  right: 95%;
+  bottom: -58px;
+  width: 12px;
+  height: 12px;
+  -webkit-animation: moveToTop-data-v-57280228 9.141s ease-in-out -5.253s infinite;
+          animation: moveToTop-data-v-57280228 9.141s ease-in-out -5.253s infinite;
 }
 .g-bubble.data-v-57280228:nth-child(9) {
   opacity: 0.2;
   border-radius: 100%;
   position: fixed;
   background: #26b4f5;
-  right: 90%;
-  bottom: -53px;
-  width: 2px;
-  height: 2px;
-  -webkit-animation: moveToTop-data-v-57280228 1.771s ease-in-out -8.92s infinite;
-          animation: moveToTop-data-v-57280228 1.771s ease-in-out -8.92s infinite;
+  right: 24%;
+  bottom: -58px;
+  width: 18px;
+  height: 18px;
+  -webkit-animation: moveToTop-data-v-57280228 9.279s ease-in-out -0.945s infinite;
+          animation: moveToTop-data-v-57280228 9.279s ease-in-out -0.945s infinite;
 }
 .g-bubble.data-v-57280228:nth-child(10) {
   opacity: 0.2;
   border-radius: 100%;
   position: fixed;
   background: #26b4f5;
-  right: 47%;
-  bottom: -53px;
-  width: 13px;
-  height: 13px;
-  -webkit-animation: moveToTop-data-v-57280228 8.553s ease-in-out -6.432s infinite;
-          animation: moveToTop-data-v-57280228 8.553s ease-in-out -6.432s infinite;
+  right: 72%;
+  bottom: -58px;
+  width: 6px;
+  height: 6px;
+  -webkit-animation: moveToTop-data-v-57280228 6.097s ease-in-out -0.619s infinite;
+          animation: moveToTop-data-v-57280228 6.097s ease-in-out -0.619s infinite;
 }
 .g-bubble.data-v-57280228:nth-child(11) {
   opacity: 0.2;
   border-radius: 100%;
   position: fixed;
   background: #26b4f5;
-  right: 34%;
-  bottom: -53px;
-  width: 5px;
-  height: 5px;
-  -webkit-animation: moveToTop-data-v-57280228 7.856s ease-in-out -2.422s infinite;
-          animation: moveToTop-data-v-57280228 7.856s ease-in-out -2.422s infinite;
+  right: 38%;
+  bottom: -58px;
+  width: 4px;
+  height: 4px;
+  -webkit-animation: moveToTop-data-v-57280228 2.538s ease-in-out -2.575s infinite;
+          animation: moveToTop-data-v-57280228 2.538s ease-in-out -2.575s infinite;
 }
 .g-bubble.data-v-57280228:nth-child(12) {
   opacity: 0.2;
   border-radius: 100%;
   position: fixed;
   background: #26b4f5;
-  right: 15%;
-  bottom: -53px;
-  width: 17px;
-  height: 17px;
-  -webkit-animation: moveToTop-data-v-57280228 6.847s ease-in-out -3.884s infinite;
-          animation: moveToTop-data-v-57280228 6.847s ease-in-out -3.884s infinite;
+  right: 7%;
+  bottom: -58px;
+  width: 4px;
+  height: 4px;
+  -webkit-animation: moveToTop-data-v-57280228 10.555s ease-in-out -8.873s infinite;
+          animation: moveToTop-data-v-57280228 10.555s ease-in-out -8.873s infinite;
 }
 .g-bubble.data-v-57280228:nth-child(13) {
   opacity: 0.2;
   border-radius: 100%;
   position: fixed;
   background: #26b4f5;
-  right: 3%;
-  bottom: -53px;
-  width: 5px;
-  height: 5px;
-  -webkit-animation: moveToTop-data-v-57280228 2.811s ease-in-out -4.825s infinite;
-          animation: moveToTop-data-v-57280228 2.811s ease-in-out -4.825s infinite;
+  right: 79%;
+  bottom: -58px;
+  width: 11px;
+  height: 11px;
+  -webkit-animation: moveToTop-data-v-57280228 1.547s ease-in-out -8.738s infinite;
+          animation: moveToTop-data-v-57280228 1.547s ease-in-out -8.738s infinite;
 }
 .g-bubble.data-v-57280228:nth-child(14) {
   opacity: 0.2;
   border-radius: 100%;
   position: fixed;
   background: #26b4f5;
-  right: 77%;
-  bottom: -53px;
-  width: 8px;
-  height: 8px;
-  -webkit-animation: moveToTop-data-v-57280228 3.552s ease-in-out -5.062s infinite;
-          animation: moveToTop-data-v-57280228 3.552s ease-in-out -5.062s infinite;
+  right: 35%;
+  bottom: -58px;
+  width: 18px;
+  height: 18px;
+  -webkit-animation: moveToTop-data-v-57280228 5.439s ease-in-out -7.509s infinite;
+          animation: moveToTop-data-v-57280228 5.439s ease-in-out -7.509s infinite;
 }
 .g-bubble.data-v-57280228:nth-child(15) {
   opacity: 0.2;
   border-radius: 100%;
   position: fixed;
   background: #26b4f5;
-  right: 57%;
-  bottom: -53px;
-  width: 18px;
-  height: 18px;
-  -webkit-animation: moveToTop-data-v-57280228 8.044s ease-in-out -6.881s infinite;
-          animation: moveToTop-data-v-57280228 8.044s ease-in-out -6.881s infinite;
+  right: 34%;
+  bottom: -58px;
+  width: 4px;
+  height: 4px;
+  -webkit-animation: moveToTop-data-v-57280228 10.888s ease-in-out -1.964s infinite;
+          animation: moveToTop-data-v-57280228 10.888s ease-in-out -1.964s infinite;
 }
 .g-bubble.data-v-57280228:nth-child(16) {
   opacity: 0.2;
   border-radius: 100%;
   position: fixed;
   background: #26b4f5;
-  right: 62%;
-  bottom: -53px;
-  width: 4px;
-  height: 4px;
-  -webkit-animation: moveToTop-data-v-57280228 4.955s ease-in-out -5.609s infinite;
-          animation: moveToTop-data-v-57280228 4.955s ease-in-out -5.609s infinite;
+  right: 45%;
+  bottom: -58px;
+  width: 17px;
+  height: 17px;
+  -webkit-animation: moveToTop-data-v-57280228 6.585s ease-in-out -1.274s infinite;
+          animation: moveToTop-data-v-57280228 6.585s ease-in-out -1.274s infinite;
 }
 .g-bubble.data-v-57280228:nth-child(17) {
   opacity: 0.2;
   border-radius: 100%;
   position: fixed;
   background: #26b4f5;
-  right: 90%;
-  bottom: -53px;
-  width: 8px;
-  height: 8px;
-  -webkit-animation: moveToTop-data-v-57280228 5.03s ease-in-out -6.259s infinite;
-          animation: moveToTop-data-v-57280228 5.03s ease-in-out -6.259s infinite;
+  right: 82%;
+  bottom: -58px;
+  width: 16px;
+  height: 16px;
+  -webkit-animation: moveToTop-data-v-57280228 1.95s ease-in-out -4.822s infinite;
+          animation: moveToTop-data-v-57280228 1.95s ease-in-out -4.822s infinite;
 }
 .g-bubble.data-v-57280228:nth-child(18) {
   opacity: 0.2;
   border-radius: 100%;
   position: fixed;
   background: #26b4f5;
-  right: 25%;
-  bottom: -53px;
-  width: 15px;
-  height: 15px;
-  -webkit-animation: moveToTop-data-v-57280228 10.284s ease-in-out -6.67s infinite;
-          animation: moveToTop-data-v-57280228 10.284s ease-in-out -6.67s infinite;
+  right: 61%;
+  bottom: -58px;
+  width: 18px;
+  height: 18px;
+  -webkit-animation: moveToTop-data-v-57280228 8.005s ease-in-out -7.271s infinite;
+          animation: moveToTop-data-v-57280228 8.005s ease-in-out -7.271s infinite;
 }
 .g-bubble.data-v-57280228:nth-child(19) {
   opacity: 0.2;
   border-radius: 100%;
   position: fixed;
   background: #26b4f5;
-  right: 81%;
-  bottom: -53px;
-  width: 18px;
-  height: 18px;
-  -webkit-animation: moveToTop-data-v-57280228 10.88s ease-in-out -2.73s infinite;
-          animation: moveToTop-data-v-57280228 10.88s ease-in-out -2.73s infinite;
+  right: 21%;
+  bottom: -58px;
+  width: 6px;
+  height: 6px;
+  -webkit-animation: moveToTop-data-v-57280228 3.142s ease-in-out -1.047s infinite;
+          animation: moveToTop-data-v-57280228 3.142s ease-in-out -1.047s infinite;
 }
 .g-bubble.data-v-57280228:nth-child(20) {
   opacity: 0.2;
   border-radius: 100%;
   position: fixed;
   background: #26b4f5;
-  right: 72%;
-  bottom: -53px;
-  width: 4px;
-  height: 4px;
-  -webkit-animation: moveToTop-data-v-57280228 9.812s ease-in-out -6.937s infinite;
-          animation: moveToTop-data-v-57280228 9.812s ease-in-out -6.937s infinite;
+  right: 1%;
+  bottom: -58px;
+  width: 7px;
+  height: 7px;
+  -webkit-animation: moveToTop-data-v-57280228 8.289s ease-in-out -6.244s infinite;
+          animation: moveToTop-data-v-57280228 8.289s ease-in-out -6.244s infinite;
 }
 @-webkit-keyframes moveToTop-data-v-57280228 {
 70% {
@@ -521,7 +521,8 @@
           animation: arc-data-v-57280228 4s linear infinite;
 }
 @-webkit-keyframes suspension-data-v-57280228 {
-0%, 100% {
+0%,
+  100% {
     -webkit-transform: translateY(0);
             transform: translateY(0);
 }
@@ -531,7 +532,8 @@
 }
 }
 @keyframes suspension-data-v-57280228 {
-0%, 100% {
+0%,
+  100% {
     -webkit-transform: translateY(0);
             transform: translateY(0);
 }

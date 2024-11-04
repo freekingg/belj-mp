@@ -178,6 +178,20 @@ var _default = {
     this.changeTabbar(index);
   },
   onReady: function onReady() {},
+  //分享---this.shareId就是要传的参数
+  onShareAppMessage: function onShareAppMessage(e) {
+    var shareobj = {
+      title: '问卷项目',
+      //分享的标题
+      path: '/pages/index/index?shareId=',
+      //好友点击分享之后跳转的页面
+      desc: '问卷项目问卷项目问卷项目',
+      imageUrl: 'http://gyh7790.oss-cn-beijing.aliyuncs.com/buerkeji/20241102/3291b16ff0c140c2a1c78ffc878db0a2.png' //内容图片
+    };
+
+    return shareobj; //一定要返回对象
+  },
+
   methods: {
     // 导航页面滚动到底部
     tabbarPageScrollLower: function tabbarPageScrollLower(e) {
