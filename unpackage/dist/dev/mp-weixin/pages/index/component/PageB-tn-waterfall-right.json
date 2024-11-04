@@ -1,0 +1,17 @@
+{
+  "component": true,
+  "usingComponents": {
+    "PageB-tn-waterfall-right": "/pages/index/component/PageB-tn-waterfall-right",
+    "tn-nav-bar": "/tuniao-ui/components/tn-nav-bar/tn-nav-bar",
+    "tn-tabs": "/tuniao-ui/components/tn-tabs/tn-tabs",
+    "tn-avatar-group": "/tuniao-ui/components/tn-avatar-group/tn-avatar-group",
+    "tn-avatar": "/tuniao-ui/components/tn-avatar/tn-avatar",
+    "tn-grid": "/tuniao-ui/components/tn-grid/tn-grid",
+    "tn-grid-item": "/tuniao-ui/components/tn-grid-item/tn-grid-item",
+    "tn-stack-swiper": "/tuniao-ui/components/tn-stack-swiper/tn-stack-swiper",
+    "tn-waterfall": "/tuniao-ui/components/tn-waterfall/tn-waterfall",
+    "tn-lazy-load": "/tuniao-ui/components/tn-lazy-load/tn-lazy-load",
+    "tn-load-more": "/tuniao-ui/components/tn-load-more/tn-load-more",
+    "tn-landscape": "/tuniao-ui/components/tn-landscape/tn-landscape"
+  }
+}

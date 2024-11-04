@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subPackages": [
+    {
+      "root": "pageA",
+      "pages": [
+        "set/set",
+        "about/about",
+        "news/news",
+        "details/details",
+        "author/author",
+        "resource/resource"
+      ]
+    },
+    {
+      "root": "pageB",
+      "pages": [
+        "article/article"
+      ]
+    }
+  ],
+  "window": {
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "图鸟UI",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "preloadRule": {
+    "pages/index/index": {
+      "packages": [
+        "pageA",
+        "pageB"
+      ],
+      "network": "all"
+    }
+  },
+  "requiredPrivateInfos": [
+    "chooseAddress"
+  ],
+  "usingComponents": {}
+}

@@ -1,0 +1,20 @@
+{
+    "id": "tuniao-article-template",
+    "name": "图鸟模板-资讯",
+    "displayName": "图鸟模板-资讯",
+    "version": "2.1.0",
+    "description": "资讯名片，是基于 图鸟UI 进行开发的纯前端模板，支持微信小程序、APP和H5。",
+    "keywords": [
+        "图鸟",
+        "模板",
+        "酷炫",
+        "前端",
+        "页面模板"
+    ],
+    "dcloudext": {
+        "category": [
+            "uni-app前端模板",
+            "前端页面模板"
+        ]
+    }
+}

@@ -1,0 +1,81 @@
+{
+  "easycom": {
+    "^tn-(.*)": "@/tuniao-ui/components/tn-$1/tn-$1.vue"
+  },
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "图鸟UI"
+			}
+		}
+	],
+  "subPackages": [
+    {
+      "root": "pageA",
+      "pages": [
+        {
+          "path": "set/set",
+          "style": {
+          	"navigationBarTitleText": "设置"
+          }
+        },
+        {
+          "path": "about/about",
+          "style": {
+          	"navigationBarTitleText": "关于"
+          }
+        },
+        {
+          "path": "news/news",
+          "style": {
+          	"navigationBarTitleText": "资讯详情"
+          }
+        },
+        {
+          "path": "details/details",
+          "style": {
+          	"navigationBarTitleText": "帖子详情"
+          }
+        },
+        {
+          "path": "author/author",
+          "style": {
+          	"navigationBarTitleText": "博主中心"
+          }
+        },
+        {
+          "path": "resource/resource",
+          "style": {
+          	"navigationBarTitleText": "资源详情"
+          }
+        }
+      ]
+    },
+    {
+      "root": "pageB",
+      "pages": [
+        {
+          "path": "article/article",
+          "style": {
+          	"navigationBarTitleText": "公众号"
+          }
+        }
+      ]
+    }
+  ],
+  "preloadRule": {
+    "pages/index/index": {
+      "packages": ["pageA", "pageB"],
+      "network": "all"
+    }
+  },
+	"globalStyle": {
+    "navigationStyle": "custom",
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "图鸟UI",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}

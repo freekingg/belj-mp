@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "图鸟UI",
+  "usingComponents": {
+    "page-a": "/pages/index/component/PageA",
+    "page-b": "/pages/index/component/PageB",
+    "page-d": "/pages/index/component/PageD"
+  }
+}
